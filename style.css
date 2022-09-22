@@ -63,12 +63,15 @@ p{
     box-shadow: 5px 5px 20px dimgray;
 }
 .container{
-    background-image: url(shapes/Group_33094_1.png);
     text-align: center;
-    border: 5px solid;
     margin: 5px 5px;
     background-size: 100%;
     height: 150px;
+}
+.container img{
+    position: relative;
+    margin: auto;
+    width: 50%;
 }
 #connection {
     text-align: center;
@@ -84,7 +87,6 @@ p{
 }
 .icon-menu{
     padding: 20px;
-    display: inline-block;
     text-align: center;
     text-decoration: none; 
 }
@@ -93,5 +95,5 @@ p{
     display: inline;
 }
 .icon li img{
-    width: 5%;
+    width: 20px;
 }
