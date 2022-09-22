@@ -89,10 +89,12 @@ p{
     padding: 20px;
     text-align: center;
     text-decoration: none; 
+    margin-right: 40px
 }
 .icon li{
     padding: 10px 10px;
     display: inline;
+    
 }
 .icon li img{
     width: 20px;
